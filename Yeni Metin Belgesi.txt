@@ -1,0 +1,8 @@
+Senkron1         'M'
+Senkron2         'B'
+Mesaj Türü        1 ( Cihaz Konfigürasyon)
+Veri Boyutu      30
+Veri             "Benan,Hunter,123123,Arkabahce"  (KullanıcıId,WifiId,WifiSifre,CihazID)
+
+
+MB 1 30 Benan,Hunter,123123,Arkabahce
